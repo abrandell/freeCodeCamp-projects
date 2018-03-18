@@ -1,2 +1,3 @@
 # freeCodeCamp-projects
-My freeCodeCamp personal projects
+
+All of my front-end freeCodeCamp projects.
