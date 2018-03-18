@@ -1,0 +1,55 @@
+body {
+  background-image: url(https://i.imgur.com/BLrcKH4.jpg);
+}
+
+.container {
+  margin-top: 30px;
+  margin-bottom: 36px;
+  opacity: .87;
+}
+
+.jumbotron {
+  background-color: black;
+  padding-top: 2px;
+  padding-bottom: 6px;
+  
+}
+
+.smaller-image {
+  width: 30%;
+  
+}
+
+.image-border {
+  border-color: #D7CCC8;
+  border-width: 1px;
+  
+}
+
+.image-resize {
+  width: 100%;
+}
+
+.center-rest {
+  color: #D7CCC8;
+  text-align: center;
+  font-family: Lato;
+}
+
+.short-bio {
+  color: #D7CCC8;
+  text-align: left;
+  font-family: Lato;
+  font-size: 16;
+}
+
+.box-shadow {
+  box-shadow: 10px 10px 15px;
+}
+
+
+
+
+
+
+
