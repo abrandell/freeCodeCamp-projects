@@ -30,9 +30,7 @@ body {
   width: 100%;
 }
 
-.center-rest {
-  color: #D7CCC8;
-  text-align: center;
+.rest {
   font-family: Lato;
 }
 
@@ -40,13 +38,31 @@ body {
   color: #D7CCC8;
   text-align: left;
   font-family: Lato;
-  font-size: 16;
+  font-size: 16px;
+  padding-left: 15px
 }
 
 .box-shadow {
   box-shadow: 10px 10px 15px;
 }
 
+.wiki {
+  color: white;
+  text-align: right;
+}
+
+.wiki:hover {
+  color: #BBDEFB;
+  text-decoration: none;
+  text-align: right;
+}
+
+h1 {
+  color: white;
+  font-family: Rubik Mono One;
+  font-size: 40px;
+  text-align: center;
+}
 
 
 
