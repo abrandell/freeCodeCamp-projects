@@ -1,11 +1,16 @@
 body {
-  background-image: url(https://i.imgur.com/BLrcKH4.jpg);
+  background-image: url(https://www.dropbox.com/s/05rlbtotv1r98ce/BLrcKH4.jpg?raw=1);
+  position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  background-color: black;
 }
 
 .container {
   margin-top: 30px;
   margin-bottom: 36px;
-  opacity: .87;
+  opacity: .95;
 }
 
 .jumbotron {
@@ -43,7 +48,7 @@ body {
 }
 
 .box-shadow {
-  box-shadow: 10px 10px 15px;
+  box-shadow: 0px 0px 25px;
 }
 
 .wiki {
@@ -62,7 +67,36 @@ h1 {
   font-family: Rubik Mono One;
   font-size: 40px;
   text-align: center;
+  
 }
+
+@media only screen and (max-width: 500px) {
+  .footer {
+    width: 50%;
+  }
+}
+
+.footer {
+  text-align: center;
+  margin: 0;
+  width: 100%;
+}
+
+.icons {
+  color: white;
+  padding: 20px;
+  opacity: .7;
+  text-decoration: none;
+}
+
+.icons:hover {
+  color: white;
+  text-decoration: none;
+  opacity: 1;
+}
+
+
+
 
 
 
